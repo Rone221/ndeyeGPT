@@ -1,0 +1,25 @@
+.mb-4 strong {
+  font-weight: bold;
+}
+
+.mb-4 em {
+  font-style: italic;
+}
+
+.mb-4 a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.mb-4 pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+.mb-4 code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
